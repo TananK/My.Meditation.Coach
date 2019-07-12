@@ -1,0 +1,201 @@
+{
+    "interactionModel" : {
+        "languageModel": {
+            "invocationName": "my meditation coach",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MeditationSessionIntent",
+                    "slots": [],
+                    "samples": [
+                        "to meditate",
+                        "let's meditate",
+                        "meditate with me",
+                        "start meditation",
+                        "begin meditation",
+                        "meditate",
+                        "start",
+                        "begin"
+                    ]
+                },
+                {
+                    "name": "MeditationBenefit",
+                    "slots": [],
+                    "samples": [
+                        "learn about meditation",
+                        "to learn",
+                        "learn meditation",
+                        "learn the mechanism",
+                        "learn",
+                        "why should I meditate",
+                        "the benefit",
+                        "benefit",
+                        "meditation benefit",
+                        "what is the benefit of meditation"
+                    ]
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Recitation",
+                    "slots": [],
+                    "samples": [
+                        "recitation",
+                        "what is recitation"
+                    ]
+                },
+                {
+                    "name": "FocalPoint",
+                    "slots": [],
+                    "samples": [
+                        "focal point",
+                        "what is focal point"
+                    ]
+                },
+                {
+                    "name": "Posture",
+                    "slots": [],
+                    "samples": [
+                        "posture",
+                        "what is posture"
+                    ]
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "QuickMeditationIntent",
+                    "slots": [],
+                    "samples": [
+                        "meditate now",
+                        "quick meditation",
+                        "quick"
+                    ]
+                },
+                {
+                    "name": "AMAZON.ExitAction<object@Episode>",
+                    "samples": []
+                },
+                {
+                    "name": "FiveMinIntent",
+                    "slots": [],
+                    "samples": [
+                        "five minute",
+                        "nine",
+                        "eight",
+                        "seven",
+                        "six",
+                        "one",
+                        "two",
+                        "three",
+                        "four",
+                        "five"
+                    ]
+                },
+                {
+                    "name": "FifteenMinIntent",
+                    "slots": [],
+                    "samples": [
+                        "fifteen minute",
+                        "twenty",
+                        "nineteen",
+                        "eighteen",
+                        "seventeen",
+                        "sixteen",
+                        "fifteen",
+                        "fourteen",
+                        "thirteen",
+                        "twelve",
+                        "eleven",
+                        "ten"
+                    ]
+                },
+                {
+                    "name": "ThirtyMinIntent",
+                    "slots": [],
+                    "samples": [
+                        "thirty minute",
+                        "thirty five",
+                        "thirty four",
+                        "thirty three",
+                        "thirty two",
+                        "thirty one",
+                        "thirty",
+                        "twenty nine",
+                        "twenty eight",
+                        "twenty seven",
+                        "twenty six",
+                        "twenty five",
+                        "twenty four",
+                        "twenty three",
+                        "twenty two",
+                        "twenty one"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
